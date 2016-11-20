@@ -1,4 +1,4 @@
-
+'use strict'
 require('dotenv').config()
 const validUrl = require('valid-url')
 const fs = require('fs')

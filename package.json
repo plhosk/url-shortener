@@ -1,0 +1,14 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/plhosk/url-shortener.git",
+  "author": "Paul Hoskinson",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11",
+    "url": "^0.11.0"
+  }
+}
